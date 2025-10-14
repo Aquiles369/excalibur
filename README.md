@@ -49,15 +49,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG85dmc1bGI2aWFkMzdlMzIyYnY0aGRkeXgxd3IzMWh1M2o0MDdrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ql4FHdPRYAt45cpq55/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-🏹 Excalibur de Bug Bounty — Sistema ofensivo integral con más de 60 vulnerabilidades, 20 metodologías y 1200+ puntos de verificación. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.<br>
-
-
-• Formato: interfaz web local (HTML/JS), toda la data se guarda en localStorage por defecto (offline, en tu máquina).<br><br>
-
-• Pasos a seguir:<br>
-1. Descarga el repositorio.<br>
-2. Abra el archivo Estados_servidor.html en con su navegador preferido.<br>
-3. Introduzca el código de estado (ej.: 429) o presione Ctrl + F y busque "429".<br>
+🏹 Excalibur de Bug Bounty — Sistema ofensivo integral con más de 60 vulnerabilidades, 20 metodologías y 1200+ puntos de verificación. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.
 
 <br>
 
@@ -68,7 +60,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 <br><br>
 
 
-1. Estructura masiva y modular<br>
+- Estructura masiva y modular<br>
 
 • 60+ vulnerabilidades divididas por categorías (cliente, servidor, lógica, infraestructura, etc.)<br><br>
 
@@ -80,7 +72,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-2. Cobertura ofensiva total<br>
+- Cobertura ofensiva total<br>
 
 • Client-Side: XSS, DOM Clobbering, mutation XSS, CSP bypass, WebSocket injection, HTML injection, etc.<br><br>
 
@@ -88,11 +80,11 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 • Infraestructura y configuración: CORS, CSP, cookies, headers, proxy bypass, cache poisoning, etc.<br><br>
 
-🧠 Lógica avanzada: race conditions, privilege escalation, lógica rota, chain attacks.<br><br>
+• Lógica avanzada: race conditions, privilege escalation, lógica rota, chain attacks.<br><br>
 
 
 
-3. Validaciones técnicas avanzadas<br>
+- Validaciones técnicas avanzadas<br>
 
 • Verificación del almacenamiento en servidor vs caché.<br><br>
 
@@ -104,7 +96,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-4. Automatización e integración con IA (modo futuro)<br>
+- Automatización e integración con IA (modo futuro)<br>
 
 • Modo manual o automático: podés ingresar payloads tú mismo o dejar que la IA los genere.<br><br>
 
@@ -113,7 +105,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 • Pensada para integrarse con motores automáticos de payloads y fuzzers inteligentes.<br><br>
 
 
-5. Optimización extrema del flujo de trabajo<br>
+- Optimización extrema del flujo de trabajo<br>
 
 • De ~5 vulnerabilidades completas por día → 30+ por día sin IA.<br><br>
 
@@ -123,7 +115,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-6. Potenciador de impacto y chaining<br>
+- Potenciador de impacto y chaining<br>
 
 • Crea cadenas de vulnerabilidades (ej.: IDOR → Stored XSS → SSRF).<br><br>
 
@@ -133,7 +125,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-7. Integración de conocimiento ofensivo<br>
+- Integración de conocimiento ofensivo<br>
 
 • Incluye referencias cruzadas con CWE, CAPEC, CVE, OWASP y PortSwigger.<br><br>
 
@@ -151,7 +143,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-8. Doble menú maestro — organización táctica total<br>
+- Doble menú maestro — organización táctica total<br>
 
 • Menú izquierdo: más de 140 categorías centrales, cada una con submódulos organizados y desplegables con una UX/UI limpia e intuitiva. Todo está ordenado jerárquicamente como una lista interactiva.<br><br>
 
@@ -161,7 +153,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-9. Centro de control interactivo<br>
+- Centro de control interactivo<br>
 
 • En el centro de la herramienta encontrás:<br><br>
 
