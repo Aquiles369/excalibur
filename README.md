@@ -33,7 +33,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 <br>
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV2bWJobzJieXZ1NHFzMzdjaGZzMHI5cHkwZDR1dm96N3Nvc3QweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elu8Mw5tiUdgTOBXxJ/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• 🧠 Estructura total: Ordena más de 60 vulnerabilidades y 1300 check box en un flujo lógico ofensivo que evita olvidos y duplica la profundidad del análisis.<br><br>
+** 🧠 Estructura total: Ordena más de 60 vulnerabilidades y 1300 check box en un flujo lógico ofensivo que evita olvidos y duplica la profundidad del análisis.<br><br>
 🚀 Velocidad real: Reduce el tiempo de análisis de días a horas, permitiendo escanear 30+ vulnerabilidades por día o más de 60 con IA integrada.<br><br>
 🧪 Precisión quirúrgica: Cada check incluye técnicas de validación, escalado de impacto y vectores encadenados que llevan hallazgos de P5 a P1.<br><br>
 🛠️ Versatilidad: Funciona tanto en análisis manual como en modo automatizado, lista para integrarse con IA y generar payloads únicos.<br><br>
@@ -60,7 +60,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 <br><br>
 
 
-- Estructura masiva y modular<br>
+# Estructura masiva y modular<br>
 
 • 60+ vulnerabilidades divididas por categorías (cliente, servidor, lógica, infraestructura, etc.)<br><br>
 
@@ -72,7 +72,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Cobertura ofensiva total<br>
+# Cobertura ofensiva total<br>
 
 • Client-Side: XSS, DOM Clobbering, mutation XSS, CSP bypass, WebSocket injection, HTML injection, etc.<br><br>
 
@@ -84,7 +84,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Validaciones técnicas avanzadas<br>
+# Validaciones técnicas avanzadas<br>
 
 • Verificación del almacenamiento en servidor vs caché.<br><br>
 
@@ -96,7 +96,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Automatización e integración con IA (modo futuro)<br>
+# Automatización e integración con IA (modo futuro)<br>
 
 • Modo manual o automático: podés ingresar payloads tú mismo o dejar que la IA los genere.<br><br>
 
@@ -105,7 +105,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 • Pensada para integrarse con motores automáticos de payloads y fuzzers inteligentes.<br><br>
 
 
-- Optimización extrema del flujo de trabajo<br>
+# Optimización extrema del flujo de trabajo<br>
 
 • De ~5 vulnerabilidades completas por día → 30+ por día sin IA.<br><br>
 
@@ -115,7 +115,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Potenciador de impacto y chaining<br>
+# Potenciador de impacto y chaining<br>
 
 • Crea cadenas de vulnerabilidades (ej.: IDOR → Stored XSS → SSRF).<br><br>
 
@@ -125,7 +125,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Integración de conocimiento ofensivo<br>
+# Integración de conocimiento ofensivo<br>
 
 • Incluye referencias cruzadas con CWE, CAPEC, CVE, OWASP y PortSwigger.<br><br>
 
@@ -143,7 +143,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Doble menú maestro — organización táctica total<br>
+# Doble menú maestro — organización táctica total<br>
 
 • Menú izquierdo: más de 140 categorías centrales, cada una con submódulos organizados y desplegables con una UX/UI limpia e intuitiva. Todo está ordenado jerárquicamente como una lista interactiva.<br><br>
 
@@ -153,7 +153,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-- Centro de control interactivo<br>
+# Centro de control interactivo<br>
 
 • En el centro de la herramienta encontrás:<br><br>
 
