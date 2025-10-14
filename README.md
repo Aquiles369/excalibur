@@ -49,7 +49,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG85dmc1bGI2aWFkMzdlMzIyYnY0aGRkeXgxd3IzMWh1M2o0MDdrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ql4FHdPRYAt45cpq55/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-🏹 Excalibur de Bug Bounty — Sistema ofensivo integral con más de 60 vulnerabilidades, 20 metodologías y 1200+ puntos de verificación. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.
+🏹 Excalibur de Bug Bounty — Sistema ofensivo integral con más de 60 vulnerabilidades, 20 metodologías y 1300+ check box. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.
 
 <br>
 
@@ -177,25 +177,25 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 - Qué podés hacer ya mismo<br>
 
-• Navegar el menú izquierdo (140+ categorías) y el menú derecho (Fase 0 → Fase 7).<br><br>
+- Navegar el menú izquierdo (140+ categorías) y el menú derecho (Fase 0 → Fase 7).<br><br>
 
-•  Usar los 2 dashboards centrales con acciones y sonido.<br><br>
+-  Usar los 2 dashboards centrales con acciones y sonido.<br><br>
 
-• Marcar los 1300+ checkboxes y recorrer las 60+ vulnerabilidades (20+ pasos cada una).<br><br>
+- Marcar los 1300+ checkboxes y recorrer las 60+ vulnerabilidades (20+ pasos cada una).<br><br>
 
 
 Próximamente<br>
 
-• Guía interactiva de inicio con la librería driver.js (tour paso a paso dentro de la app).
+- Guía interactiva de inicio con la librería driver.js (tour paso a paso dentro de la app).
 
-• Si usás modo estricto de archivos locales, serví el HTML con un http-server simple (opcional).<br>
+- Si usás modo estricto de archivos locales, serví el HTML con un http-server simple (opcional).<br>
  
  <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> "Buscar rápido: escribe el código HTTP (ej.: 429) en el buscador para saltar instantáneamente a su descripción completa — incluye todos los códigos (oficiales y no oficiales, incluso los menos conocidos) en un único lugar."
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> "Excalibur la check list definitiva para bug bounty"
 <br>
 
 
