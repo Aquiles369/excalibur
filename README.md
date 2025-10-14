@@ -33,7 +33,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 <br>
 
 ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV2bWJobzJieXZ1NHFzMzdjaGZzMHI5cHkwZDR1dm96N3Nvc3QweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elu8Mw5tiUdgTOBXxJ/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-** 🧠 Estructura total: Ordena más de 60 vulnerabilidades y 1300 check box en un flujo lógico ofensivo que evita olvidos y duplica la profundidad del análisis.<br><br>
+**🧠 Estructura total: Ordena más de 60 vulnerabilidades y 1300 check box en un flujo lógico ofensivo que evita olvidos y duplica la profundidad del análisis.<br><br>
 🚀 Velocidad real: Reduce el tiempo de análisis de días a horas, permitiendo escanear 30+ vulnerabilidades por día o más de 60 con IA integrada.<br><br>
 🧪 Precisión quirúrgica: Cada check incluye técnicas de validación, escalado de impacto y vectores encadenados que llevan hallazgos de P5 a P1.<br><br>
 🛠️ Versatilidad: Funciona tanto en análisis manual como en modo automatizado, lista para integrarse con IA y generar payloads únicos.<br><br>
