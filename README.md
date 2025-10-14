@@ -11,7 +11,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNpcXkya3F1NGF3NWNxdDI2bzg0c3NzMmhuZWFlMHNsOGI3YmoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/P4sS7sU2ufXz183cfy/giphy.gif" width = 75px>  </picture> Excalibur la check list definitiva que necesitas para bug bounty
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Nvc256aTlsZmVycnl4Z2x4eWtxeWMyMDI3M2hnMHliM3ViZDIxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdQNz4dutSII8/giphy.gif" width = 75px>  </picture> Excalibur la check list definitiva que necesitas para bug bounty
 
 <br>
 
@@ -26,13 +26,13 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjExOWp1d25mbDh2YnJhdHJ6OHdlZXhoNGZmdmtlb2F3NnlhcWs0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ha2DszQVpjI1AxvW5h/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBtMHdheDVuczYzc3Q0MGZsZTVqa3YycDJwZmNnNGd6Z3B0bXdqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4AJLmY3esmHRQWyGw1/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **En bug bounty real, el mayor enemigo no es el firewall… es el caos: cientos de vectores posibles, técnicas dispersas en docenas de recursos, pérdida de tiempo saltando entre herramientas y olvidar pasos clave que hacen la diferencia entre un hallazgo informativo y uno crítico.<br><br>
 Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas y metodologías en un solo sistema centralizado, reduciendo el riesgo de omitir pruebas, repitiendo errores o subestimar impactos. Se convierte en un mapa ofensivo completo que guía cada análisis desde el reconocimiento hasta la explotación final, sin dejar huecos.** 
 
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJ1Z2xlanAxMHM2bWZ2djM3Y3h5cTZleHA0cGJ2bmpmMXRucjlweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lHXsw5hwW0UAnSdHAH/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHV2bWJobzJieXZ1NHFzMzdjaGZzMHI5cHkwZDR1dm96N3Nvc3QweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elu8Mw5tiUdgTOBXxJ/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• 🧠 Estructura total: Ordena más de 60 vulnerabilidades y 1300 check box en un flujo lógico ofensivo que evita olvidos y duplica la profundidad del análisis.<br><br>
 🚀 Velocidad real: Reduce el tiempo de análisis de días a horas, permitiendo escanear 30+ vulnerabilidades por día o más de 60 con IA integrada.<br><br>
 🧪 Precisión quirúrgica: Cada check incluye técnicas de validación, escalado de impacto y vectores encadenados que llevan hallazgos de P5 a P1.<br><br>
@@ -46,7 +46,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVrcnhwNDAzajJmMWhrN3p3OGg2b3B0emRoOGFlMnNlNm04Y2I3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nndsQSOMEUToRELiAE/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG85dmc1bGI2aWFkMzdlMzIyYnY0aGRkeXgxd3IzMWh1M2o0MDdrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ql4FHdPRYAt45cpq55/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
 🏹 Excalibur de Bug Bounty — Sistema ofensivo integral con más de 60 vulnerabilidades, 20 metodologías y 1200+ puntos de verificación. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.<br>
@@ -68,93 +68,104 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 <br><br>
 
 
-📁 1. Estructura masiva y modular<br><br>
+1. Estructura masiva y modular<br>
 
-📌 60+ vulnerabilidades divididas por categorías (cliente, servidor, lógica, infraestructura, etc.)<br><br>
+• 60+ vulnerabilidades divididas por categorías (cliente, servidor, lógica, infraestructura, etc.)<br><br>
 
-📚 Más de 20 metodologías ofensivas integradas directamente.<br><br>
+• Más de 20 metodologías ofensivas integradas directamente.<br><br>
 
-✅ 1300+ checkboxes distribuidos en pasos tácticos, técnicas y validaciones.<br><br>
+• 1300+ checkboxes distribuidos en pasos tácticos, técnicas y validaciones.<br><br>
 
-🧩 Organización jerárquica: cada vulnerabilidad tiene sub-pasos, pruebas, métodos de validación y cadenas de explotación asociadas.<br><br>
+• Organización jerárquica: cada vulnerabilidad tiene sub-pasos, pruebas, métodos de validación y cadenas de explotación asociadas.<br><br>
 
-⚔️ 2. Cobertura ofensiva total<br><br>
 
-🛜 Client-Side: XSS, DOM Clobbering, mutation XSS, CSP bypass, WebSocket injection, HTML injection, etc.<br><br>
 
-🖥️ Server-Side: SSRF, IDOR, SQLi, XXE, LFI/RFI, RCE, deserialización insegura, etc.<br><br>
+2. Cobertura ofensiva total<br>
 
-🔐 Infraestructura y configuración: CORS, CSP, cookies, headers, proxy bypass, cache poisoning, etc.<br><br>
+• Client-Side: XSS, DOM Clobbering, mutation XSS, CSP bypass, WebSocket injection, HTML injection, etc.<br><br>
+
+• Server-Side: SSRF, IDOR, SQLi, XXE, LFI/RFI, RCE, deserialización insegura, etc.<br><br>
+
+• Infraestructura y configuración: CORS, CSP, cookies, headers, proxy bypass, cache poisoning, etc.<br><br>
 
 🧠 Lógica avanzada: race conditions, privilege escalation, lógica rota, chain attacks.<br><br>
 
-🧪 3. Validaciones técnicas avanzadas<br><br>
 
-📂 Verificación del almacenamiento en servidor vs caché.<br><br>
 
-🧬 Confirmación de persistencia y aparición en índices (Wayback Machine).<br><br>
+3. Validaciones técnicas avanzadas<br>
 
-📡 Creación de URLs y subdominios activos con payloads inyectados.<br><br>
+• Verificación del almacenamiento en servidor vs caché.<br><br>
 
-🔁 Pruebas con múltiples técnicas por vulnerabilidad (8 o más) para asegurar el impacto.<br><br>
+• Confirmación de persistencia y aparición en índices (Wayback Machine).<br><br>
 
-⚙️ 4. Automatización e integración con IA (modo futuro)<br><br>
+• Creación de URLs y subdominios activos con payloads inyectados.<br><br>
 
-🤖 Modo manual o automático: podés ingresar payloads tú mismo o dejar que la IA los genere.<br><br>
-
-🧠 Prompts listos por vulnerabilidad y técnica para conectarse a una IA local.<br><br>
-
-🪄 Pensada para integrarse con motores automáticos de payloads y fuzzers inteligentes.<br><br>
-
-🚀 5. Optimización extrema del flujo de trabajo<br><br>
-
-🕐 De ~5 vulnerabilidades completas por día → 30+ por día sin IA.<br><br>
-
-🧠 Con IA integrada → 30–60 por día, reduciendo tareas de 12 días a 1 solo día.<br><br>
-
-📍 Todo en un único panel, sin cambiar de herramientas ni perder foco.<br><br>
-
-🧰 6. Potenciador de impacto y chaining<br><br>
-
-🔗 Crea cadenas de vulnerabilidades (ej.: IDOR → Stored XSS → SSRF).<br><br>
-
-📈 Escala fallos informativos (P5) a críticos (P1) con combinaciones inteligentes.<br><br>
-
-🧪 Cada hallazgo tiene un “plan de escalado” documentado para llegar al máximo impacto posible.<br><br>
-
-🧠 7. Integración de conocimiento ofensivo<br><br>
-
-📚 Incluye referencias cruzadas con CWE, CAPEC, CVE, OWASP y PortSwigger.<br><br>
-
-🔬 Se conecta con tu arsenal ofensivo: payloads XSS, técnicas CSP bypass, WAF bypass, sistemas Unicode y más.<br><br>
-
-🧠 Conecta contexto de vulnerabilidades con headers, frameworks, parsers, métodos HTTP, etc.<br><br>
-
-📈 Sistema modular: podés sumar nuevas vulnerabilidades, técnicas o categorías sin romper nada.<br><br>
-
-🧪 Compatible con nuevas versiones de WAF, CSP, navegadores y frameworks.<br><br>
-
-🧠 Evoluciona como “cerebro ofensivo” central al que se le van añadiendo nuevas funciones y técnicas.<br><br>
-
-🧩 Cada vulnerabilidad contiene más de 20 pasos detallados y categorizados.<br><br><br>
+• Pruebas con múltiples técnicas por vulnerabilidad (8 o más) para asegurar el impacto.<br><br>
 
 
 
-Doble menú maestro — organización táctica total<br>
+4. Automatización e integración con IA (modo futuro)<br>
 
-🧠 Menú izquierdo: más de 140 categorías centrales, cada una con submódulos organizados y desplegables con una UX/UI limpia e intuitiva. Todo está ordenado jerárquicamente como una lista interactiva.<br><br>
+• Modo manual o automático: podés ingresar payloads tú mismo o dejar que la IA los genere.<br><br>
 
-📊 Menú derecho: fases del proceso ofensivo desde Fase 0 hasta Fase 7, todas categorizadas y estructuradas como lista ordenada y funcional.<br><br>
+• Prompts listos por vulnerabilidad y técnica para conectarse a una IA local.<br><br>
 
-🎞️ Ambos menús incluyen GIFs, animaciones e indicadores visuales, haciendo la experiencia más dinámica y fluida.<br><br><br>
+• Pensada para integrarse con motores automáticos de payloads y fuzzers inteligentes.<br><br>
+
+
+5. Optimización extrema del flujo de trabajo<br>
+
+• De ~5 vulnerabilidades completas por día → 30+ por día sin IA.<br><br>
+
+• Con IA integrada → 30–60 por día, reduciendo tareas de 12 días a 1 solo día.<br><br>
+
+• Todo en un único panel, sin cambiar de herramientas ni perder foco.<br><br>
 
 
 
-🧪 Centro de control interactivo<br>
+6. Potenciador de impacto y chaining<br>
 
-🖥️ En el centro de la herramienta encontrás:<br><br>
+• Crea cadenas de vulnerabilidades (ej.: IDOR → Stored XSS → SSRF).<br><br>
 
-🧠 Dos dashboards funcionales, con acciones interactivas y sonidos de respuesta al hacer clic.<br><br>
+• Escala fallos informativos (P5) a críticos (P1) con combinaciones inteligentes.<br><br>
+
+• Cada hallazgo tiene un “plan de escalado” documentado para llegar al máximo impacto posible.<br><br>
+
+
+
+7. Integración de conocimiento ofensivo<br>
+
+• Incluye referencias cruzadas con CWE, CAPEC, CVE, OWASP y PortSwigger.<br><br>
+
+• Se conecta con tu arsenal ofensivo: payloads XSS, técnicas CSP bypass, WAF bypass, sistemas Unicode y más.<br><br>
+
+• Conecta contexto de vulnerabilidades con headers, frameworks, parsers, métodos HTTP, etc.<br><br>
+
+• Sistema modular: podés sumar nuevas vulnerabilidades, técnicas o categorías sin romper nada.<br><br>
+
+• Compatible con nuevas versiones de WAF, CSP, navegadores y frameworks.<br><br>
+
+• Evoluciona como “cerebro ofensivo” central al que se le van añadiendo nuevas funciones y técnicas.<br><br>
+
+• Cada vulnerabilidad contiene más de 20 pasos detallados y categorizados.<br><br><br>
+
+
+
+8. Doble menú maestro — organización táctica total<br>
+
+• Menú izquierdo: más de 140 categorías centrales, cada una con submódulos organizados y desplegables con una UX/UI limpia e intuitiva. Todo está ordenado jerárquicamente como una lista interactiva.<br><br>
+
+• Menú derecho: fases del proceso ofensivo desde Fase 0 hasta Fase 7, todas categorizadas y estructuradas como lista ordenada y funcional.<br><br>
+
+• Ambos menús incluyen GIFs, animaciones e indicadores visuales, haciendo la experiencia más dinámica y fluida.<br><br><br>
+
+
+
+9. Centro de control interactivo<br>
+
+• En el centro de la herramienta encontrás:<br><br>
+
+• Dos dashboards funcionales, con acciones interactivas y sonidos de respuesta al hacer clic.<br><br>
 
 
 
