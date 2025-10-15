@@ -175,7 +175,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 3. Listo: ya tenés el arsenal de bug bounty más extenso y especializado en formato web, gratis y usable sin importar tu experiencia.<br><br>
 
 
-- Qué podés hacer ya mismo<br>
+## Qué podés hacer ya mismo<br>
 
 - Navegar el menú izquierdo (140+ categorías) y el menú derecho (Fase 0 → Fase 7).<br><br>
 
