@@ -184,7 +184,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 - Marcar los 1300+ checkboxes y recorrer las 60+ vulnerabilidades (20+ pasos cada una).<br><br>
 
 
-Próximamente<br>
+## Próximamente<br>
 
 - Guía interactiva de inicio con la librería driver.js (tour paso a paso dentro de la app).
 
