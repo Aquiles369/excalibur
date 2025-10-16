@@ -15,7 +15,7 @@
 
 <br>
 
- **La checklist es un sistema ofensivo integral con más de 60 vulnerabilidades, 1300+ checkboxes y +20 metodologías, diseñado para optimizar la búsqueda, validación y explotación de fallos web. Cubre desde vectores client-side hasta server-side, cadenas lógicas, cabeceras, bypasses y técnicas modernas, con opciones manuales y automáticas listas para IA. Centraliza todo el proceso de bug bounty en un solo lugar, multiplicando la velocidad y la profundidad del análisis contiene todos los repositorios anteriores y mucho más, centralizado en un solo lugar en formato web (.html), con una UX/UI pulida para que tanto un hunter sin experiencia como uno con experiencia puedan usarlo sin ningún problema,<a href="https://youtu.be/qYPH6iW8-MY" target="_blank" rel="noopener">demo de Excalibur Youtube</a>.** 
+ **La checklist es un sistema ofensivo integral con más de 60 vulnerabilidades, 1300+ check box y +20 metodologías, diseñado para optimizar la búsqueda, validación y explotación de fallos web. Cubre desde vectores client-side hasta server-side, cadenas lógicas, cabeceras, bypasses y técnicas modernas, con opciones manuales y automáticas listas para IA. Centraliza todo el proceso de bug bounty en un solo lugar, multiplicando la velocidad y la profundidad del análisis contiene todos los repositorios anteriores y mucho más, centralizado en un solo lugar en formato web (.html), con una UX/UI pulida para que tanto un hunter sin experiencia como uno con experiencia puedan usarlo sin ningún problema,<a href="https://youtu.be/qYPH6iW8-MY" target="_blank" rel="noopener">demo de Excalibur Youtube</a>.** 
 <br><br> 
 
 <p align="center">
