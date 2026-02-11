@@ -49,7 +49,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG85dmc1bGI2aWFkMzdlMzIyYnY0aGRkeXgxd3IzMWh1M2o0MDdrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ql4FHdPRYAt45cpq55/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-🏹 Excalibur de Bug Bounty — Sistema ofensivo integral con más de 60 vulnerabilidades, +20 metodologías y 1300+ check box. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.
+🏹 Excalibur de Bug Bounty, Sistema ofensivo integral con más de 60 vulnerabilidades, +20 metodologías y 1300+ check box. Diseñada para optimizar la búsqueda, validación y explotación de fallos web, escalar impactos y acelerar el trabajo de un hunter profesional, todo en una sola interfaz.
 
 <br>
 
@@ -143,7 +143,7 @@ Excalibur elimina todo ese caos: unifica técnicas, pasos, validaciones, cadenas
 
 
 
-# Doble menú maestro — organización táctica total<br>
+# Doble menú maestro, organización táctica total<br>
 
 • Menú izquierdo: más de 140 categorías centrales, cada una con submódulos organizados y desplegables con una UX/UI limpia e intuitiva. Todo está ordenado jerárquicamente como una lista interactiva.<br><br>
 
